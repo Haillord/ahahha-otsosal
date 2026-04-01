@@ -1,0 +1,5 @@
+ultralytics
+pyserial
+dxcam
+numpy
+PyQt5
